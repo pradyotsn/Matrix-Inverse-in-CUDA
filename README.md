@@ -4,4 +4,5 @@ Here the Matrix Inversion is done using CuBLAS and then It is multiplied with th
 The Matrix Inversion is done using cublasSgetrfBatched() and cublasSgetriBatched().
 
 To compile just make
+
 $: make
