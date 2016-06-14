@@ -6,3 +6,7 @@ The Matrix Inversion is done using cublasSgetrfBatched() and cublasSgetriBatched
 To compile just make
 
 $: make
+
+To give input
+
+$make user
